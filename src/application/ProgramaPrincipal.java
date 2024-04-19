@@ -15,9 +15,9 @@ public class ProgramaPrincipal {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
-		System.out.println("=========================================");
-		System.out.println("============ Banco Santander ============");
-		System.out.println("=========================================");
+		System.out.println("=======================================");
+		System.out.println("=========== Banco Santander ===========");
+		System.out.println("=======================================");
 		
 		System.out.println("\n- Seja bem vindo! O que deseja fazer?");
 		System.out.print("[1] Abrir uma nova conta\n" 
